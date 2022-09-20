@@ -1,4 +1,5 @@
 using DesignPatterns;
+using DesignPatterns.Auxiliares;
 
 namespace DesignPatternsTests;
 

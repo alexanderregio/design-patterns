@@ -1,1 +1,2 @@
-﻿FactoryMethod.CallExample();
+﻿//FactoryMethod.CallExample();
+Adapter.CallExample();
